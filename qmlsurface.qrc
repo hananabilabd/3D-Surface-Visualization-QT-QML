@@ -1,0 +1,9 @@
+<RCC>
+	<qresource >
+		<file>geology.png</file>
+    </qresource>
+    <qresource prefix="/qml">
+        <file>qml/qmlsurface/main.qml</file>
+        <file>qml/qmlsurface/NewButton.qml</file>
+    </qresource>
+</RCC>
